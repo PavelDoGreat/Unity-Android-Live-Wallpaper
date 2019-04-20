@@ -2,6 +2,8 @@
 
 Run your Unity game as a live wallpaper on Android. Used in production by the app [*Fluid Simulation*](https://play.google.com/store/apps/details?id=games.paveldogreat.fluidsimfree).
 
+<img src="screenshots/app_1.jpg?raw=true" width="200"> <img src="screenshots/app_2.jpg?raw=true" width="200">
+
 The main reason I open source it is because this implementation has several major bugs that I can't fix and I need help with:
 
 - When you launch lwp preview, press home button and then go back to preview. Whoops... it crashes.
@@ -15,7 +17,7 @@ So my goal is to fix these problems and to make this library the best Unity's lw
 Export your game as Android Studio project. Then you need to make next steps:
 
 1) Copy content from [AndroidManifest.xml](AndroidManifest.xml) to the project's AndroidManifest.xml, after main activity tag. Should look like this:
- <img src="screenshots/manifest_screen.png?raw=true" width="800">
+ <img src="screenshots/manifest.png?raw=true" width="800">
 
 2) Add [WallpaperActivity.java](WallpaperActivity.java) script into the project. You probably would need to change the package name at the top of the script.
 
