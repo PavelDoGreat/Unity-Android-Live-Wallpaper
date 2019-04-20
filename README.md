@@ -22,4 +22,4 @@ Export your game as Android Studio project. Then you need to make next steps:
 3) Make `xml` folder in `res` and add [wallpaper.xml](wallpaper.xml) file there.
  <img src="screenshots/xml.png?raw=true" width="400">
 
-Now you can build and run. Go into wallpaper settings of your phone to see it. If you are using Samsung device then install Google Wallpapers app.
+Now you can build and run. Go into wallpaper settings of your phone to see it. If you are using Samsung device then you need to install Google Wallpapers app to set it as a wallpaper.
