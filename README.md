@@ -1,6 +1,6 @@
 # Unity Android Live Wallpaper
 
-Run your Unity game as a live wallpaper on Android. Used in production by the app [*Fluid Simulation*](https://play.google.com/store/apps/details?id=games.paveldogreat.fluidsimfree).
+Run your Unity game as live wallpaper on Android. Used in production by the app [*Fluid Simulation*](https://play.google.com/store/apps/details?id=games.paveldogreat.fluidsimfree).
 
 <img src="screenshots/app_1.jpg?raw=true" width="200"> <img src="screenshots/app_2.jpg?raw=true" width="200">
 
